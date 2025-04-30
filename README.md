@@ -181,3 +181,4 @@ Feel free to contribute or customize the system further as needed.
 ## Screenshots
 
 Here is a screenshot of the Travel Management System login page:
+![Screenshots](https://github.com/Soundarya-Anmole/Travel-Management-System/tree/6a996efd747b8d77803b229cdbcbe98a8eacab56/Screenshots)
